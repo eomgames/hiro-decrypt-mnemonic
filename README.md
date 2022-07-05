@@ -1,5 +1,7 @@
 # hiro mnemonic decryptor
 
+## https://github.com/eomgames/hiro-decrypt-mnemonic
+
 you will need the contents of your `config.json`
 
 ex (replacing "your_user"):
@@ -31,3 +33,6 @@ After filling, click decrypt and wait!
 3. run `npm install`
 4. run `npm run dev`
 5. open browser to http://localhost:3000
+
+## attribution
+I did use some functions directly from https://github.com/hirosystems/stacks-wallet/blob/7caaf3f5e059ef34d94dc0800ccd2629ed8db2e3/app/store/keys/keys.actions.ts#L102

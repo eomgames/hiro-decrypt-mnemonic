@@ -1,5 +1,6 @@
 # hiro mnemonic decryptor
 
+## Video overview: https://youtu.be/8RkHmuhGCa0
 ## https://github.com/eomgames/hiro-decrypt-mnemonic
 
 you will need the contents of your `config.json`
